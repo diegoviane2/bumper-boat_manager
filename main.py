@@ -1,6 +1,7 @@
-#########
+##########################################
 # Written by Diego Viane                 #
 # Github: https://github.com/diegoviane2 #
+##########################################
 from machine import Pin
 import _thread
 from time import sleep
