@@ -40,6 +40,6 @@ while True:
        
     while len(qe) > 0:
         read_pins(player_pins[int(queue_delete(qe))])
-        sleep(3)
+        sleep(0.1)
         read_pins(player_pins[0])
-        sleep(0.5)
+        sleep(3)
